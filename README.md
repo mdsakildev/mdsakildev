@@ -15,12 +15,12 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEWQGd10kXCKQ/profile-displaybackgroundimage-shrink_200_800/B56ZxlJx9TKAAU-/0/1771223589766?e=1781136000&v=beta&t=ZvqhU-gxvQW4YUtVraJZQLPuMCBc99gA-4kg6dICiJI">
 
 
 
-
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm a passionate Frontend & Shopify Developer from Bangladesh with experience building responsive eCommerce and CMS websites. Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization. I enjoy creating modern user interfaces, improving user experience, and building clean responsive layouts.<br><br>Alongside frontend development, I have professional experience in graphic design using Adobe Photoshop and Illustrator, which helps me create visually appealing and user-friendly designs. I have worked on multiple Shopify stores and custom frontend projects, focusing on performance, responsive design, and modern UI development.<br><br>Currently improving my React and advanced Shopify development skills while building modern web experiences and growing as a CMS Developer.<br>
+##💫 About Me:
+<br><br>I'm a passionate Frontend & Shopify Developer from Bangladesh with experience building responsive eCommerce and CMS websites. Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization. I enjoy creating modern user interfaces, improving user experience, and building clean responsive layouts.<br><br>Alongside frontend development, I have professional experience in graphic design using Adobe Photoshop and Illustrator, which helps me create visually appealing and user-friendly designs. I have worked on multiple Shopify stores and custom frontend projects, focusing on performance, responsive design, and modern UI development.<br><br>Currently improving my React and advanced Shopify development skills while building modern web experiences and growing as a CMS Developer.<br>
 
 
 ## 🌐 Socials:
