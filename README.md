@@ -1,6 +1,7 @@
- <p align="center">
-  <b> <h1 align="center">Hi 👋 I'm Sakil</h1> <br>
-  Frontend & Shopify Developer | "Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization.".</b>
+ 
+<h1 align="center">Hi 👋 I'm Sakil</h1>
+<p align="center">
+   Frontend & Shopify Developer | "Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization.".</b>
 </p>
 <p align="center">
  
