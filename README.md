@@ -1,8 +1,8 @@
  
 <h1 align="center">Hi 👋 I'm Sakil</h1>
-<p align="center">
-   **Frontend & Shopify Developer | "Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization."**
-</p>
+ **<p align="center">
+  Frontend & Shopify Developer | "Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization."
+</p>**
 <p align="center">
  
   <a href="https://www.linkedin.com/in/shahriakhansejan" target="_blank">
