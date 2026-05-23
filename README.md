@@ -4,7 +4,8 @@
 </p>
   <p aling="center">
    <a href="linkedin.com/in/mdsakildev" target="_blank">
-   <img src=" <a href="![Static Badge](https://img.shields.io/badge/Linkedin-blue)>"
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
     
   </p>
 
