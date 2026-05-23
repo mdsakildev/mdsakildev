@@ -15,6 +15,18 @@
 
 ##💫 About Me:
 <br>I'm a passionate Frontend & Shopify Developer from Bangladesh with experience building responsive eCommerce and CMS websites. Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization. I enjoy creating modern user interfaces, improving user experience, and building clean responsive layouts.<br><br>Alongside frontend development, I have professional experience in graphic design using Adobe Photoshop and Illustrator, which helps me create visually appealing and user-friendly designs. I have worked on multiple Shopify stores and custom frontend projects, focusing on performance, responsive design, and modern UI development.<br><br>Currently improving my React and advanced Shopify development skills while building modern web experiences and growing as a CMS Developer.<br>
+## 🧠 Tech Stack
+
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,tailwindcss" />
+</p>
+
+#### UI & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,figma" />
+</p>
+<p>shadcn/ui &nbsp;•&nbsp; Framer Motion &nbsp;•&nbsp; animated/ui &nbsp;•&nbsp; Ant Design</p>
 
 
 ## 🌐 Socials:
