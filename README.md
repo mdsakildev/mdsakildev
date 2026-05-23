@@ -1,12 +1,13 @@
 <div aling="center">
   Hi 👋 I'm Sakil 
   Frontend & Shopify Developer | "Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization."
+  </div>
   <p aling="center">
    <a href="linkedin.com/in/mdsakildev" target="_blank">
    <img src=" <a href="https://www.linkedin.com/in/shahriakhansejan" target="_blank">"
     
   </p>
-</div>
+
 
 
 
