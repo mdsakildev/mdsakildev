@@ -1,3 +1,15 @@
+<div aling="center">
+  Hi 👋 I'm Sakil 
+  Frontend & Shopify Developer | "Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization."
+  <p aling="center">
+   <a href="linkedin.com/in/mdsakildev" target="_blank">
+   <img src=" <a href="https://www.linkedin.com/in/shahriakhansejan" target="_blank">"
+    
+  </p>
+</div>
+
+
+
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>I'm a passionate Frontend & Shopify Developer from Bangladesh with experience building responsive eCommerce and CMS websites. Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization. I enjoy creating modern user interfaces, improving user experience, and building clean responsive layouts.<br><br>Alongside frontend development, I have professional experience in graphic design using Adobe Photoshop and Illustrator, which helps me create visually appealing and user-friendly designs. I have worked on multiple Shopify stores and custom frontend projects, focusing on performance, responsive design, and modern UI development.<br><br>Currently improving my React and advanced Shopify development skills while building modern web experiences and growing as a CMS Developer.<br>
 
