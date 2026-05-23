@@ -19,6 +19,50 @@
 <br>I'm a passionate Frontend & Shopify Developer from Bangladesh with experience building responsive eCommerce and CMS websites. Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization. I enjoy creating modern user interfaces, improving user experience, and building clean responsive layouts.<br><br>Alongside frontend development, I have professional experience in graphic design using Adobe Photoshop and Illustrator, which helps me create visually appealing and user-friendly designs. I have worked on multiple Shopify stores and custom frontend projects, focusing on performance, responsive design, and modern UI development.<br>Currently improving my React and advanced Shopify development skills while building modern web experiences and growing as a CMS Developer.<br>
 
 ---
+## 🔥 Featured Projects
+
+### 🛒 Shopify Store
+
+> A modern responsive Sports Gear eCommerce website built with Shopify customization and clean UI design.
+
+| | |
+| ---------------------------------------- | ---------------------------------------- |
+|<img src="https://i.ibb.co.com/jxXMp9j/geargrove-1.png" alt="geargrove-1" width="380" /> | <img src="https://i.ibb.co.com/8gyMWFFH/geargrove-2.png" alt="geargrove-2" width="380" /> |
+| <img src="https://i.ibb.co.com/sv6hx06g/geargrove-3.png" alt="geargrove-3" width="380" /> | <img src="https://i.ibb.co.com/QjFmnzQ0/geargrove-4.png" alt="geargrove-4" border="0" />|
+
+**Role:** Frontend & Shopify Developer
+
+* ✅ Responsive homepage design
+* ✅ Custom Shopify sections
+* ✅ Mobile optimized layout
+* ✅ Product page customization
+* ✅ Clean and modern UI design
+
+**Tech Stack:** `Shopify` `HTML` `CSS` `JavaScript` `Tailwind CSS`
+
+🔐 **Password:** `123`
+🔗 **Live:** https://sports-gear-9243.myshopify.com/ `Private Production Project`
+
+---
+
+### 💻 Responsive landing page
+
+> Modern landing page built using HTML and CSS.
+
+|                                          |                                          |
+| ---------------------------------------- | ---------------------------------------- |
+| <img src="YOUR_IMAGE_LINK" width="380"/> | <img src="YOUR_IMAGE_LINK" width="380"/> |
+
+**Role:** Frontend Developer
+
+* ✅ Fully responsive design
+* ✅ Smooth scrolling effects
+* ✅ Modern UI layout
+* ✅ Mobile-friendly sections
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 **Live:** [your-link.com](https://your-link.com)
 
 
 ---
