@@ -33,8 +33,8 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 
 | | |
 |---|---|
-|<img src="https://i.ibb.co.com/jxXMp9j/geargrove-1.png" alt="geargrove-1" width="380" /> | <img src="https://i.ibb.co.com/8gyMWFFH/geargrove-2.png" alt="geargrove-2" width="380" /> |
-| <img src="https://i.ibb.co.com/sv6hx06g/geargrove-3.png" alt="geargrove-3" width="380" /> | <img src="https://i.ibb.co.com/QjFmnzQ0/geargrove-4.png" alt="geargrove-4" width="380" />|
+|<img src="https://i.ibb.co.com/TMwVZnB9/geargrove-1.png" alt="geargrove-1" width="380" /> | <img src="https://i.ibb.co.com/kgxfvkQW/geargrove-2.png" alt="geargrove-2" width="380" />|
+|<img src="https://i.ibb.co.com/84gz8TwC/geargrove-3.png" alt="geargrove-3" width="380" /> | <img src="https://i.ibb.co.com/kgJRHwJY/geargrove-4.png" alt="geargrove-4" width="380" />|
 
 **Role:** Frontend & Shopify Developer.
 
@@ -56,8 +56,8 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 
 | | |
 |---|---|
-|<img src="https://i.ibb.co.com/Y73VKns1/estore-01.png" alt="estore-01" width="380" /> | <img src="https://i.ibb.co.com/k6S27Dc2/estore02.png" alt="estore02" width="380" /> |
-| <img src="https://i.ibb.co.com/sv0KYNfQ/estore03.png" alt="estore03" width="380" /> | <img src="https://i.ibb.co.com/bjMDbm6n/estore04.png" alt="estore04" width="380" />|
+| <img src="https://i.ibb.co.com/RpRtcsgj/estore-01.png" alt="estore-01" width="380" /> | <img src="https://i.ibb.co.com/TxFZKSDG/estore02.png" alt="estore02" width="380" /> |
+| <img src="https://i.ibb.co.com/kg65BXyR/estore03.png" alt="estore03" width="380" /> | <img src="https://i.ibb.co.com/Mk1HmJHw/estore04.png" alt="estore04" width="380"|
 
 **Role:** Frontend & Shopify Developer
 
