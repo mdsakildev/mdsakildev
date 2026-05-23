@@ -73,12 +73,6 @@
 
 ---
 
-## 🕐 Coding Activity
-
-[![Wakatime Stats](https://wakatime.com/share/@mdsakildev/48cf028f-9819-4d50-9576-b09e1e40ebb4.svg)](https://wakatime.com/@mdsakildev)
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdsakildev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
