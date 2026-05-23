@@ -26,7 +26,7 @@
 > A modern responsive Sports Gear eCommerce website built with Shopify customization and clean UI design.
 
 | | |
-| ---------------------------------------- | ---------------------------------------- |
+|---|---|
 |<img src="https://i.ibb.co.com/jxXMp9j/geargrove-1.png" alt="geargrove-1" width="380" /> | <img src="https://i.ibb.co.com/8gyMWFFH/geargrove-2.png" alt="geargrove-2" width="380" /> |
 | <img src="https://i.ibb.co.com/sv6hx06g/geargrove-3.png" alt="geargrove-3" width="380" /> | <img src="https://i.ibb.co.com/QjFmnzQ0/geargrove-4.png" alt="geargrove-4" border="0" />|
 
