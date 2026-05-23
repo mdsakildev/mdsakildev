@@ -19,14 +19,13 @@
 
 #### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=js,react," />
 </p>
 
 #### UI & Styling
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,figma" />
 </p>
-<p>shadcn/ui &nbsp;•&nbsp; Framer Motion &nbsp;•&nbsp; animated/ui &nbsp;•&nbsp; Ant Design</p>
 
 
 ## 🌐 Socials:
