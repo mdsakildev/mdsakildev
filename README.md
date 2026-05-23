@@ -38,32 +38,33 @@
 * ✅ Product page customization
 * ✅ Clean and modern UI design
 
-**Tech Stack:** `Shopify` `HTML` `CSS` `JavaScript` `Tailwind CSS`
+**Tech Stack:** `Shopify` `HTML` `CSS` `JavaScript` `Tailwind CSS.`
 
 🔐 **Password:** `123`
-🔗 **Live:** https://sports-gear-9243.myshopify.com/ `Private Production Project`
+🔗 **Live:** https://sports-gear-9243.myshopify.com/ `Private Practice Project`
 
 ---
+### 🛒 Shopify Store
 
-### 💻 Responsive landing page
+> A modern responsive Sports Gear eCommerce website built with Shopify customization and a clean UI design.
 
-> Modern landing page built using HTML and CSS.
+| | |
+|---|---|
+|<img src="https://i.ibb.co.com/Y73VKns1/estore-01.png" alt="estore-01" width="380" /> | <img src="https://i.ibb.co.com/k6S27Dc2/estore02.png" alt="estore02" width="380" /> |
+| <img src="https://i.ibb.co.com/sv0KYNfQ/estore03.png" alt="estore03" width="380" /> | <img src="https://i.ibb.co.com/bjMDbm6n/estore04.png" alt="estore04" width="380" />|
 
-|                                          |                                          |
-| ---------------------------------------- | ---------------------------------------- |
-| <img src="YOUR_IMAGE_LINK" width="380"/> | <img src="YOUR_IMAGE_LINK" width="380"/> |
+**Role:** Frontend & Shopify Developer
 
-**Role:** Frontend Developer
+* ✅ Responsive homepage design
+* ✅ Custom Shopify sections
+* ✅ Mobile optimized layout
+* ✅ Product page customization
+* ✅ Clean and modern UI design
 
-* ✅ Fully responsive design
-* ✅ Smooth scrolling effects
-* ✅ Modern UI layout
-* ✅ Mobile-friendly sections
+**Tech Stack:** `Shopify` `HTML` `CSS` `JavaScript` `Tailwind CSS.`
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
-
-🔗 **Live:** [your-link.com](https://your-link.com)
-
+🔐 **Password:** `123`
+🔗 **Live:** https://project-01-3.myshopify.com/ `Private Practice Project`
 
 ---
 
