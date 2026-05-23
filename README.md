@@ -2,12 +2,18 @@
   <b>Hi 👋 I'm Sakil 
   Frontend & Shopify Developer | "Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and Shopify customization.".</b>
 </p>
-  <p aling="center">
-   <a href="linkedin.com/in/mdsakildev" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-    
-  </p>
+<p align="center">
+ 
+  <a href="https://www.linkedin.com/in/shahriakhansejan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://shahria.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:shahriakhansejan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 
