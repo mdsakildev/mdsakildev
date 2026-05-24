@@ -27,6 +27,29 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 ---
 ## 🔥 Featured Projects
 
+### 🛒 Khaas Food —— UI Practice Project
+
+> A responsive eCommerce UI practice project inspired by the Khaas Food website, built for improving Shopify customization and frontend development skills.
+
+| | |
+|---|---|
+|<img src="https://i.ibb.co.com/Q7s4dGN9/khaasfood01.png" alt="khaasfood01" width="380" /> | <img src="https://i.ibb.co.com/tp7j4S6j/khaass-food02.png" alt="khaass-food02" width="380"/>|
+|<img src="https://i.ibb.co.com/mVX7Gg5C/khassfood03.png" alt="khassfood03" width="380" /> | <img src="https://i.ibb.co.com/JRzvKDmR/khassfood04.png" alt="khassfood04" width="380" />|
+
+**Role:** Frontend & Shopify Developer.
+
+* ✅ Developed a responsive eCommerce homepage and product sections inspired by a grocery and organic food online store.
+* ✅ Customized Shopify layouts and reusable sections for banners, featured products, categories, and promotional content.
+* ✅ Optimized the website for mobile, tablet, and desktop devices to ensure smooth browsing and shopping experience.
+* ✅ Improved UI structure and visual presentation with clean layouts, organized spacing, and modern responsive design.
+* ✅ Focused on creating a user-friendly shopping experience with clear product display, easy navigation, and modern eCommerce styling.
+
+**Tech Stack:** `Shopify` `HTML` `CSS` `JavaScript` `Tailwind CSS.`
+
+🔐 **Password:** `123`
+🔗 **Live:** https://khaas-food-2.myshopify.com/`Practice Project Inspired by khaas food`
+
+
 ### 🛒 Geargrove —— Sports Gear Item's Store
 
 > A modern responsive Sports Gear Item's Store website built with Shopify customization and a clean UI design.
@@ -38,11 +61,12 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 
 **Role:** Frontend & Shopify Developer.
 
-* ✅ Responsive homepage design
-* ✅ Custom Shopify sections
-* ✅ Mobile optimized layout
-* ✅ Product page customization
-* ✅ Clean and modern UI design
+* ✅ Developed responsive and visually appealing homepage layouts for modern eCommerce websites.
+* ✅ Built and customized Shopify sections to improve store functionality and user experience.
+* ✅ Optimized website layouts and components for mobile, tablet, and desktop devices.
+* ✅ Customized product pages with clean UI, organized content structure, and responsive design.
+* ✅ Created modern and user-friendly interface designs focused on performance, usability, and visual consistency.
+
 
 **Tech Stack:** `Shopify` `HTML` `CSS` `JavaScript` `Tailwind CSS.`
 
@@ -61,11 +85,11 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 
 **Role:** Frontend & Shopify Developer
 
-* ✅ Responsive homepage design
-* ✅ Custom Shopify sections
-* ✅ Mobile optimized layout
-* ✅ Product page customization
-* ✅ Clean and modern UI design
+* ✅ Developed responsive and visually appealing homepage layouts for modern eCommerce websites.
+* ✅ Built and customized Shopify sections to improve store functionality and user experience.
+* ✅ Optimized website layouts and components for mobile, tablet, and desktop devices.
+* ✅ Customized product pages with clean UI, organized content structure, and responsive design.
+* ✅ Created modern and user-friendly interface designs focused on performance, usability, and visual consistency.
 
 **Tech Stack:** `Shopify` `HTML` `CSS` `JavaScript` `Tailwind CSS.`
 
