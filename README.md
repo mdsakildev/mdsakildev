@@ -1,7 +1,7 @@
  
 <h1 align="center"> Hey 👋 I'm Sakil </h1>
 <h4 align="center">
-Shopify Developer | "Skilled Shopify customization."
+Shopify Developer | "Front-End Developer."
 </h4>
 <p align="center">
  
