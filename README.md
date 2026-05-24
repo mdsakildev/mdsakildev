@@ -27,7 +27,7 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 ---
 ## 🔥 Featured Projects
 
-### 🛒 Khaas Food —— UI Practice Project
+### 01. 🛒 Khaas Food —— UI Practice Project
 
 > A responsive eCommerce UI practice project inspired by the Khaas Food website, built for improving Shopify customization and frontend development skills.
 
@@ -50,7 +50,7 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 🔗 **Live:** https://khaas-food-2.myshopify.com/`Practice Project Inspired by khaas food`
 
 
-### 🛒 Geargrove —— Sports Gear Item's Store
+### 02. 🛒 Geargrove —— Sports Gear Item's Store
 
 > A modern responsive Sports Gear Item's Store website built with Shopify customization and a clean UI design.
 
@@ -74,7 +74,7 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 🔗 **Live:** https://sports-gear-9243.myshopify.com/ `Private Practice Project`
 
 ---
-### 🛒 E-Store —— Electric device E-Commerce Platform
+### 03. 🛒 E-Store —— Electric device E-Commerce Platform
 
 > A modern responsive Electric device eCommerce website built with Shopify customization and a clean UI design.
 
