@@ -56,8 +56,8 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 
 | | |
 |---|---|
-|<img src="https://i.ibb.co.com/TMwVZnB9/geargrove-1.png" alt="geargrove-1" width="380" /> | <img src="https://i.ibb.co.com/kgxfvkQW/geargrove-2.png" alt="geargrove-2" width="380" />|
-|<img src="https://i.ibb.co.com/84gz8TwC/geargrove-3.png" alt="geargrove-3" width="380" /> | <img src="https://i.ibb.co.com/kgJRHwJY/geargrove-4.png" alt="geargrove-4" width="380" />|
+|<img src="https://i.ibb.co.com/kt5zCJx/sports-gear1.png" alt="sports-gear1" width="380" /> | <img src="https://i.ibb.co.com/4wwwDDNt/sports-gear3.png" alt="sports-gear3" width="380" />|
+|<img src="https://i.ibb.co.com/rfz23BL6/sports-gear04.png" alt="sports-gear04" width="380" /> | <img src="https://i.ibb.co.com/tw2y0hPg/sports-gear2.png" alt="sports-gear2" width="380" />|
 
 **Role:** Frontend & Shopify Developer.
 
