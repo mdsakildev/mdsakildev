@@ -33,8 +33,8 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 
 | | |
 |---|---|
-|<img src="https://i.ibb.co.com/Q7s4dGN9/khaasfood01.png" alt="khaasfood01" width="380" /> | <img src="https://i.ibb.co.com/tp7j4S6j/khaass-food02.png" alt="khaass-food02" width="380"/>|
-|<img src="https://i.ibb.co.com/mVX7Gg5C/khassfood03.png" alt="khassfood03" width="380" /> | <img src="https://i.ibb.co.com/JRzvKDmR/khassfood04.png" alt="khassfood04" width="380" />|
+|<img src="https://i.ibb.co.com/XkM21PTk/khass-food-01.png" alt="khass-food-01" width="380" /> | <img src="https://i.ibb.co.com/rRmkfNqc/khaas-food-02.png" alt="khaas-food-02" width="380" />|
+|<img src="https://i.ibb.co.com/sJmw4h2s/khaas-food-03.png" alt="khaas-food-03" width="380" /> | <img src="https://i.ibb.co.com/TD92RxyH/khass-food-04.png" alt="khass-food-04" width="380" />|
 
 **Role:** Frontend & Shopify Developer.
 
