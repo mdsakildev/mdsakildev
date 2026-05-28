@@ -80,8 +80,8 @@ Passionate Shopify Developer skilled in HTML, CSS, JavaScript, React, Tailwind C
 
 | | |
 |---|---|
-| <img src="https://i.ibb.co.com/RpRtcsgj/estore-01.png" alt="estore-01" width="380" /> | <img src="https://i.ibb.co.com/TxFZKSDG/estore02.png" alt="estore02" width="380" /> |
-| <img src="https://i.ibb.co.com/kg65BXyR/estore03.png" alt="estore03" width="380" /> | <img src="https://i.ibb.co.com/Mk1HmJHw/estore04.png" alt="estore04" width="380" />|
+| <img src="https://i.ibb.co.com/xtTzYXgh/EStore1.png" alt="EStore1" width="380" /> | <img src="https://i.ibb.co.com/gb9WSc1c/EStore3.png" alt="EStore3" width="380" /> |
+| <img src="https://i.ibb.co.com/cKvMPTS5/EStore-4.png" alt="EStore-4" width="380" /> | <img src="https://i.ibb.co.com/bRQHDH2Y/EStore-2.png" alt="EStore-2" width="380" />|
 
 **Role:** Frontend & Shopify Developer
 
